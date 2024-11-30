@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "271728196179",
+    "project_id": "proyecto-final-cdd79",
+    "storage_bucket": "proyecto-final-cdd79.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271728196179:android:32348a55a5a8d8769aa4a6",
+        "android_client_info": {
+          "package_name": "com.app.ropa.tienda.unah"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzFJU29zod6xvEezKx1aiv-vshS0fvDC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
